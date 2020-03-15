@@ -1,6 +1,4 @@
-let say: string = "hello"
-console.log('ffff')
-function add(h: number, b: number): number {
-    return h + b
-}
-let num: number = add(6, 5);
+import { createCard, printCard } from "./funcs"
+
+const card = createCard()
+printCard(card)
