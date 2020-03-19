@@ -4,5 +4,8 @@
   },
   "devDependencies": {
     "@types/node": "^13.9.1"
+  },
+  "dependencies": {
+    "reflect-metadata": "^0.1.13"
   }
 }
